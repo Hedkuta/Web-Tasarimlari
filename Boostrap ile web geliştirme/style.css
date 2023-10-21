@@ -1,0 +1,16 @@
+.navbar {
+    min-height: 30px;
+}
+.navbar-nav {
+    display: flex;
+}
+.navbar-nav .nav-item {
+    margin-right: 10px;
+}
+.logo {
+    display: block;
+    margin: right; 
+}
+.navbar-nav .nav-link {
+    color: white
+}
